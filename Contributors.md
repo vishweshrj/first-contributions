@@ -1189,7 +1189,7 @@ https://github.com/1276604737-cloud
 - [Renato Malebo](https://github.com/Renatomalebo10)
 - [HARSHAVARTHINI J](https://github.com/Harshavarthini26-maker)
 - [Siddharth Bellundagi](https://github.com/siddharth-bellundagi)
-- [Vigneshwaran D](https://github.com/vigneshwaran151)
+- [Vigneshwaran D](https://github.com/vigneshwaran15)
 - [Suhail A](https://github.com/Suhail977)
 - [Vishal S](https://github.com/Vishal0250)
 - [Harshavarthini26-maker](https://github.com/Harshavarthini26-maker) - Chennai
@@ -1216,3 +1216,4 @@ https://github.com/1276604737-cloud
 Zarasalim
   -[Aneek Manna](https://github.com/Aneekcodes07)
 [shreya chakrabarti](https://github.com/23f2000103)
+- [Vishwesh R J](https://github.com/vishweshrj)
